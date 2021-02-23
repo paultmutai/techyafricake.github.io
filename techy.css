@@ -1,0 +1,139 @@
+.menu{
+    list-style-type: none;
+    border-radius: 100px;
+    padding: 10px;
+    background-color: #274f73;
+    font-family: "Comic Sans MS";
+    overflow: hidden;
+    width: 80%;
+    height: 40px;
+}
+.menuD{
+    list-style-type: none;
+    border-radius: 100px;
+    padding: 10px;
+
+    font-family: "Comic Sans MS";
+    overflow: hidden;
+    width: 80%;
+    height: 40px;
+    border: 2px solid #274f73;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.listyle{
+    display: block;
+    //text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+}
+.listyleD{
+    display: block;
+//text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    color: #274f73;
+}
+.spaceup{
+    margin-top: 35%;
+}
+.listyle:hover{
+    color: black;
+    font-weight: bold;
+}
+.divstyleL{
+    color:white;
+    text-align: center;
+    font-family:"Comic Sans MS";
+    float: left;
+    width: 38%;
+    padding:25px;
+    margin-left: 150px;
+    border-radius: 25px;
+    background-color:#274f73;
+}
+.divstyleR {
+    color: #274f73;
+    text-align: -moz-left;
+    font-family: "Comic Sans MS";
+    float: right;
+    width: 32%;
+    padding: 15px;
+    margin-right: 150px;
+    border-radius: 25px;
+    border: 3px solid #274f73;
+}
+.head{
+    color:#274f73;
+    font-family: "Comic Sans MS";
+    text-align: center;
+
+}
+.about{
+    font-family: "Comic Sans MS";
+    text-align: center;
+    color: #274f73;
+    font-weight: bold;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color:gainsboro;
+    font-size: larger;
+    border-radius: 20px;
+}
+.partner1{
+    font-family: "Comic Sans MS";
+    text-align: center;
+    color: #274f73;
+    //margin:30%;
+    float:left;
+    background-color:gainsboro;
+    font-size: larger;
+    border-radius: 20px;
+    list-style-type: none;
+}
+.partner2{
+    font-family: "Comic Sans MS";
+    text-align: center;
+    color: #274f73;
+    //margin:30%;
+    float:right;
+    background-color:gainsboro;
+    font-size: larger;
+    border-radius: 20px;
+    list-style-type: none;
+}
+.partner3{
+    font-family: "Comic Sans MS";
+    text-align: center;
+    color: #274f73;
+    //margin:30%;
+    float: snap;
+    background-color:gainsboro;
+    font-size: larger;
+    border-radius: 20px;
+    list-style-type: none;
+}
+.contact{
+    text-align: center;
+    list-style-type: none;
+    color: white;
+    font-size:x-large;
+    font-family: "Comic Sans MS";
+    border-color: #274f73;
+    font-weight: bolder;
+    background: #274f73;
+    width: 80%;
+    height: 40%;
+    //margin-left: inherit;
+    //margin-right: 10%;
+    width: auto;
+    border-radius: 20px;
+
+
+
+}
