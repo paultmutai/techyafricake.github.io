@@ -1,0 +1,95 @@
+.header{
+    text-align: center;
+    background-color: cornflowerblue;
+    padding: 5px;
+    //margin-top: 30px;
+    //margin-bottom: 20px;
+    margin: 60px;
+    //overflow: hidden;
+}
+
+.try{
+    list-style-type: none;
+    margin: 60px;
+    padding: 10px;
+    background-color: brown;
+    font-family: "Comic Sans MS";
+    overflow: hidden;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.listyle{
+    display: block;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+}
+.stylehome{
+
+    text-align: center;
+   // margin: 30px
+}
+.styleabout{
+    font-family: "Comic Sans MS";
+   margin-left: 20px;
+
+    text-align: center;
+    color: brown;
+    padding: 30px;
+}
+.aboutleft{
+    text-align: left;
+}
+.aboutright{
+    text-align: right;
+    }
+.stylegallery{
+padding: 5px;
+    border: 1px solid black;
+    float: left;
+    width: 45%;
+    margin: 5px;
+
+}
+.styleform{
+    background-color: gray;
+    color: wheat;
+    padding: 5px;
+    text-align: center;
+    width: 60%;
+    align-items: center;
+    }
+input{
+    width: 50%;
+    padding: 15px;
+    margin: 10px;
+    box-sizing: border-box;
+    align-items: center;
+}
+textarea{
+    width: auto;
+    padding: 15px;
+    margin: 10px;
+    box-sizing: border-box;
+    height: 150px;
+    resize: none;
+   //margin-left: 50%;
+    //margin-right: 20%;
+    align-items: center;
+
+}
+button{
+    background-color: black;
+    border: none;
+    padding: 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    color: wheat;
+    align-items: center;
+}
